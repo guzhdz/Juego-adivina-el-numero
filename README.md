@@ -1,4 +1,5 @@
-# Tarea 2: Juego adivina el número
+# Juego adivina el número
+Pequeña pagina que resuelve una practica que consta de crear un mini juego de adiviar el numero.
 
 ## Objetivo
 Imaginemos que tu jefe te ha dado el siguiente resumen para crear este juego:
@@ -8,7 +9,7 @@ Después de cada intento, debería decirle al jugador si ha acertado o no — y 
 los números que ya se probaron anteriormente. El juego terminará una vez que el jugador acierte o cuando se acaben los intentos. Cuando el juego termina, se le debe dar al jugador la opción de volver a jugar.
 
 ## Resultados
-Link: https://guzhdz.github.io/Tarea-2-Juego-adivina-el-numero/
+Link Deploy: https://guzhdz.github.io/Tarea-2-Juego-adivina-el-numero/
 
 ![image](https://github.com/guzhdz/Tarea-2-Juego-adivina-el-numero/assets/89165084/0b8f4720-d252-47b3-ad4b-577b7e914e8e)
 
